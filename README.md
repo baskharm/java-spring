@@ -19,7 +19,7 @@ we.....
 2.Neelesh saladi
 
 
-3.Tarun 
+3.Tarun Sarpanjeri
 
 
 4.sai rohith gorla
@@ -35,6 +35,6 @@ we.....
 
 [neelesh](https://github.com/Bhaskar2909/java_spring)
 
-
+[Tarun](https://github.com/Bhaskar2909/java-spring)
 
 
