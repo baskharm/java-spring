@@ -77,7 +77,7 @@ body {font-family: "Lato", sans-serif}
   </div>
 
   <!-- The Tour Section -->
-  <div class="w3-container w3-content w3-center w3-padding-64 w3-blue w3-wide" style="max-width:800px,color:black">
+  <div class="w3-container w3-content w3-center w3-padding-64 w3-black w3-wide" style="max-width:800px,color:black">
 <h1>Temperature Converter</h1>
 <p>Type a value in the Celcius field to convert the value to kelvin:</p>
 
@@ -99,28 +99,29 @@ body {font-family: "Lato", sans-serif}
   <br/>
   Enter first number:   <input type="text" id="txt1" name="text1">
   Enter second number:   <input type="text" id="txt2" name="text2">
-  <p id="demo"></p>
+  <p id="dem"></p>
+  <p id="day"></p>
  <script>
     function myFunction() 
     {
       var y = document.getElementById("txt1").value;
       var z = document.getElementById("txt2").value;
       var x = parseInt(y) + parseInt(z);
-      document.getElementById("demo").innerHTML = x;
+      document.getElementById("dem").innerHTML = x;
     }
  </script>
-	  <script>
+<script>
 var txt1 = "What a very";
 var txt2 = " nice day";
-document.getElementById("demo").innerHTML = txt1 + txt2;
+document.getElementById("day").innerHTML = txt1 + txt2;
 
 </script>
 
 <button type="button"
-onclick="document.getElementById('demo').innerHTML = Date()">
+onclick="document.getElementById('deo').innerHTML = Date()">
 Click me to display Date and Time.</button>
 
-<p id="demo"></p>
+<p id="deo"></p>
 
 </div>
 
