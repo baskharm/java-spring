@@ -2,9 +2,10 @@
 
 ## java-spring (Topic- 11- Architects: Building, deploying web apps with Python & Flask or C# & .NET or Java & Spring)
 
-## Group 7
++ Our Workshop main theme is about building and deploying web apps using Java and Spring. The project has been hosted on the Local Server.We can't run the application remotely using the Github so, we are using the Spring Boot and Eclipse IDE for deploying the Web application we have created with a Tomcat server.
+### Group 7 Team
 
-## Group members
+Project Repo Link: (<https://github.com/Bhaskar2909/java-spring)>
 
 1.Bhaskar Reddy Minupuri
 
@@ -23,9 +24,5 @@
 [neelesh](https://github.com/Bhaskar2909/java_spring)
 
 [Tarun](https://github.com/Bhaskar2909/java-spring)
-
-+ Our Workshop main theme is about building and deploying web apps using Java and Spring. The project has been hosted on the Local Server.We can't run the application remotely using the Github so, we are using the Spring Boot and Eclipse IDE for deploying the Web application we have created.
-
-Project Repo Link: (<https://github.com/Bhaskar2909/java-spring)>
 
 
