@@ -7,7 +7,7 @@
 
 Project Repo Link: (<https://github.com/Bhaskar2909/java-spring)>
 
-1.Bhaskar Reddy Minupuri
+1.Bhaskarm
 
 2.Neelesh saladi
 
@@ -17,7 +17,6 @@ Project Repo Link: (<https://github.com/Bhaskar2909/java-spring)>
 
 ### Github links
 
-[bhaskar](https://github.com/Bhaskar2909/java_spring.git)
 
 [sai rohith](https://github.com/Bhaskar2909/java_spring)
 
